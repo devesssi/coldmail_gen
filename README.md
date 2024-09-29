@@ -1,4 +1,12 @@
-This is a cold email generater using llama 70b i.e a free open source model and is made using 
-langchain webbase loader,chroma db, streamlit and various others methods are used prompted for college students  .
+This is a cold email genertor using llama open source model
+tuned for students(me) now only for shree lr tiwari college of engineering 
+but may be it will be available for everyone in upcoming versions 
 
-IT IS NOT THE FINAL VERSION THIS IS JUST A BASE MODEL YOU CAN CHECK IT OUT.  
+-it uses streamlit for basic ui 
+-langchain for web scrapping (web base loader)
+-chatgroq as for llama-3.1-70b
+-chromadb for semantic data query 
+
+reference: codebasics
+
+
