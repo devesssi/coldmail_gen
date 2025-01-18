@@ -1,3 +1,4 @@
-orjson==3.10.15 --only-binary :all:
+orjson
+orjson==3.10.14
 
 langchain_community
